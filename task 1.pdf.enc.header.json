@@ -1,0 +1,10 @@
+{
+  "salt_b64": "DC0I9tPrMLwOcRQH0xm3cg==",
+  "kdf": {
+    "n": 16384,
+    "r": 8,
+    "p": 1
+  },
+  "meta_filename": "task 1.pdf.enc.meta.enc",
+  "enc_filename": "task 1.pdf.enc"
+}
